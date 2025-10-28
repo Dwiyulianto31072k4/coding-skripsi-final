@@ -1,0 +1,7 @@
+# Jangan upload file sensitif atau besar
+*.csv
+*.xlsx
+*.xls
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
